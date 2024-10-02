@@ -1,0 +1,2 @@
+lol = {}
+return lol
