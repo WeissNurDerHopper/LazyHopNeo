@@ -1,4 +1,3 @@
 return {
-  "WeissNurDerHopper/NeoHopsit.nvim",
-  lazy = false
+  "WeissNurDerHopper/NeoHopsit.nvim"
 }
