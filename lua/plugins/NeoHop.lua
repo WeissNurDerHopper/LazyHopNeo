@@ -1,6 +1,6 @@
 return {
   "WeissNurDerHopper/NeoHopsit.nvim",
-  lazy = true,
+  lazy = false,
   config = function()
     require("NeoHopsit")
   end,
