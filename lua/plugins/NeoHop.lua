@@ -5,6 +5,6 @@ return {
     require("NeoHopsit")
   end,
   dependencies = {
-    "treesitter",
+    "nvim-treesitter",
   }
 }
